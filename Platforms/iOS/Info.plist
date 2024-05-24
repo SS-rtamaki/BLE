@@ -28,5 +28,10 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Assets.xcassets/appicon.appiconset</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>aaa</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>bbb</string>
+
 </dict>
 </plist>

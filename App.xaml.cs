@@ -1,4 +1,4 @@
-namespace MauiApp1;
+namespace BLEApp;
 
 public partial class App : Application
 {
