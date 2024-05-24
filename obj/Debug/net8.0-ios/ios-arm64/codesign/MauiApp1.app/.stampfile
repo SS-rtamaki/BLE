@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign D99D45C912E3932481ADD52DC592DEEF6EDC266A --entitlements /Users/ts005768/V-BiAS/MAUI/MauiApp1/obj/Debug/net8.0-ios/ios-arm64/Entitlements.xcent /Users/ts005768/V-BiAS/MAUI/MauiApp1/bin/Debug/net8.0-ios/ios-arm64/MauiApp1.app

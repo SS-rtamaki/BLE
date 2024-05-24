@@ -1,0 +1,77 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp1
+build_property.ProjectDir = /Users/ts005768/V-BiAS/MAUI/MauiApp1/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MauiBleTest-master/MauiBleTest/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MauiBleTest_master.MauiBleTest.App.xaml
+build_metadata.AdditionalFiles.TargetPath = MauiBleTest-master/MauiBleTest/App.xaml
+build_metadata.AdditionalFiles.RelativePath = MauiBleTest-master/MauiBleTest/App.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MauiBleTest-master/MauiBleTest/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MauiBleTest_master.MauiBleTest.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = MauiBleTest-master/MauiBleTest/AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = MauiBleTest-master/MauiBleTest/AppShell.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MauiBleTest-master/MauiBleTest/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MauiBleTest_master.MauiBleTest.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MauiBleTest-master/MauiBleTest/MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MauiBleTest-master/MauiBleTest/MainPage.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MauiBleTest-master/MauiBleTest/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MauiBleTest_master.MauiBleTest.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = MauiBleTest-master/MauiBleTest/Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = MauiBleTest-master/MauiBleTest/Resources/Styles/Colors.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/MauiBleTest-master/MauiBleTest/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.MauiBleTest_master.MauiBleTest.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = MauiBleTest-master/MauiBleTest/Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = MauiBleTest-master/MauiBleTest/Resources/Styles/Styles.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/ts005768/V-BiAS/MAUI/MauiApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
